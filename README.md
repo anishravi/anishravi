@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Ravi</h1>
-<h3 align="center">I'm a passionate web developer with a strong interest in building user-friendly applications. My expertise includes working with technologies like React, Html, CSS, Tailwind CSS, JavaScript, Express JS and MySQL. Currently learning with the technology NextJS. I'm have worked on various projects ranging from e-commerce apps to project management tools. I'm always eager to learn new technologies and take on challenging projects.</h3>
+<h3 align="center">I'm a passionate Software Engineer Working currently at Hatio, having a strong interest in building user-friendly applications. My expertise includes working with technologies like React, Html, CSS, Tailwind CSS, JavaScript, Java, Oracle Sql. Currently learning with the technology NextJS. I'm have worked on various projects ranging from e-commerce apps to project management tools. I'm always eager to learn new technologies and take on challenging projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishravi&label=Profile%20views&color=0e75b6&style=flat" alt="anishravi" /> </p>
 
