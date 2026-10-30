@@ -1,21 +1,138 @@
-<h1 align="center">Hi 👋, I'm Anish Ravi</h1>
-<h3 align="center">I'm a passionate Software Engineer Working currently at Hatio, having a strong interest in building user-friendly applications. My expertise includes working with technologies like React, Html, CSS, Tailwind CSS, JavaScript, Java, Oracle Sql. I have worked on various projects ranging from e-commerce apps to project management tools. I'm always eager to learn new technologies and take on new projects.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishravi&label=Profile%20views&color=0e75b6&style=flat" alt="anishravi" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/anishravi](https://github.com/anishravi)
-
-- 📝 I write articles on [https://dev.to/anish_ravi](https://dev.to/anish_ravi)
-
-- 📫 How to reach me **anish.ravi2023@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/anish_ravi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anish_ravi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anishravi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishravi2002" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/github-banner.png"
+       alt="Anish Ravi - Developer Banner"
+       width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h1>Hey, I'm Anish 👋</h1>
+  <h3>Software Engineer building reliable systems that do the heavy lifting.</h3>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68d007b41a0296edefcc8583?variant=dark" alt="roadmap.sh"/></a>
+  <p>
+    I work on backend services, payment workflows, distributed systems,
+    and developer tools. My day-to-day stack revolves around Java,
+    Spring Boot, Kafka, Oracle SQL, and React.
+  </p>
+
+  <a href="https://anishravi.github.io/Personal_Website/">
+    <img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/anishravi-swe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/anishravi">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+backend+systems+for+real-world+scale;Making+distributed+workflows+more+reliable;Turning+slow+processes+into+faster+ones;Always+learning%2C+building%2C+and+shipping"
+       alt="Animated developer tagline" />
+</div>
+
+whoami 👨‍💻
+- 💼 Software Engineer at Hatio Innovations (A BillDesk Company).
+- ⚙️ Focused on Java, Spring Boot, microservices, Kafka, SQL, and React.
+- 🏦 Building and supporting payment and banking workflows in the BBPS ecosystem.
+- 🧩 Interested in distributed systems, backend architecture, performance engineering, and developer experience.
+- 🌐 Explore my work: Personal Portfolio.
+Engineering Highlights ⚡
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h2>1M+</h2>
+      <b>Daily transactions</b><br />
+      <sub>Production platform scale supported</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>95%+</h2>
+      <b>Faster report generation</b><br />
+      <sub>From 2–3 hours to under 5 minutes</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>3-way</h2>
+      <b>Reconciliation</b><br />
+      <sub>Multi-source settlement matching</sub>
+    </td>
+  </tr>
+</table>
+
+- Built a database-backed one-time processing guard to prevent duplicate biller requests during Kafka consumer rebalancing.
+- Contributed to a 3-way reconciliation engine matching settlement data, with mismatch detection, deemed/final status handling, and automated transaction repush.
+- Developed Sherlock, an internal BBPS testing and diagnostics tool for Fetch, Payment, and Click2Pay flows, consolidating NPCI request/response data, module statuses, database evidence, and service logs.
+- Optimized report-generation workflows through batch processing and write tracking, reducing execution time from 2–3 hours to under 5 minutes.
+Tech Stack 🛠️
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,react,js,html,css,tailwind,docker,linux,git,maven,mysql,postgres,redis&perline=8"
+       alt="Technology stack icons" />
+</div>
+
+<details>
+  <summary><b>More about my toolkit</b></summary>
+  <br />
+  <table>
+    <tr><td><b>Languages</b></td><td>Java, SQL, JavaScript (ES6+)</td></tr>
+    <tr><td><b>Backend</b></td><td>Spring Boot, Spring Batch, Microservices, REST APIs, Hibernate/JPA</td></tr>
+    <tr><td><b>Messaging</b></td><td>Apache Kafka</td></tr>
+    <tr><td><b>Frontend</b></td><td>React.js, HTML5, CSS3, Tailwind CSS</td></tr>
+    <tr><td><b>Databases</b></td><td>Oracle SQL, MySQL, PostgreSQL, Redis</td></tr>
+    <tr><td><b>Testing</b></td><td>JUnit, Mockito, Unit Testing, Integration Testing</td></tr>
+    <tr><td><b>Tools</b></td><td>Git, Maven, Linux, Docker</td></tr>
+  </table>
+</details>
+
+Featured Projects 🚀
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anishravi/Personal_Website">🌐 Personal Website</a></h3>
+      <p>My personal portfolio website and a home for my work.</p>
+      <sub>HTML · CSS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anishravi/Hatio_Todo">✅ To-Do App</a></h3>
+      <p>Full-stack task management app with a React frontend, Express backend, and MySQL persistence through Sequelize.</p>
+      <sub>React · Express · MySQL · Sequelize</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anishravi/Product-Importer-App">📦 Product Importer</a></h3>
+      <p>Product import and management app with CSV uploads, background processing, progress updates, and webhook support.</p>
+      <sub>FastAPI · Celery · PostgreSQL · Redis</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anishravi?tab=repositories">🔎 More repositories</a></h3>
+      <p>Browse my other experiments, applications, and learning projects.</p>
+      <sub>Explore my public repositories</sub>
+    </td>
+  </tr>
+</table>
+
+GitHub Activity 📈
+<div align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=anishravi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+       alt="Anish's GitHub stats" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishravi&layout=compact&hide_border=true&theme=tokyonight"
+       alt="Most used languages" />
+  <br />
+  <img width="70%"
+       src="https://streak-stats.demolab.com?user=anishravi&theme=tokyonight&hide_border=true"
+       alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishravi&theme=tokyo-night&hide_border=true&area=true"
+       width="100%"
+       alt="GitHub contribution activity graph" />
+</div>
+
+<div align="center">
+  <b>Thanks for stopping by!</b><br />
+  <sub>Let's build something useful, reliable, and a little bit delightful.</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=anishravi&style=flat-square&color=0e7490&label=Profile+views"
+       alt="Profile views" />
+</div>
